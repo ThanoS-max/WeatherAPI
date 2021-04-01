@@ -15,9 +15,7 @@ Download or clone, open in unity 5, build for platform of choice.
 
 ## Contributors
 
-@uveavanto
-@rs6713
-
+@ThanoS-Max
 ## License
 
 A short snippet describing the license (MIT, Apache, etc.)
