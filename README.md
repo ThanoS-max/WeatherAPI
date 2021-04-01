@@ -1,7 +1,7 @@
 ## Synopsis
 
-A small game made during UKGovHack 2016.
-Made by me and rs6713
+A small game made during MLH: Share Day 4 2021.
+Made by me.
 
 ## Motivation
 
